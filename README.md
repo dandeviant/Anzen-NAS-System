@@ -1,5 +1,6 @@
 # Anzen-NAS-System
 安全 - an-zen
+Meaning: secure
 
 Developer: Muhammad Danial
 

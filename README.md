@@ -4,3 +4,5 @@
 Meaning: secure
 
 Project developed solely for Final Year Project purposes. Not for productional use
+
+IDE: VS Code Linux

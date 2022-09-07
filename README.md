@@ -3,6 +3,4 @@
 ### 安全 - an-zen
 Meaning: secure
 
-
-
 Project developed solely for Final Year Project purposes. Not for productional use
